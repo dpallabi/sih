@@ -1,0 +1,17 @@
+# Root .gitignore for Smart Student System
+# (backend/ and frontend/ have their own detailed .gitignore files)
+
+# Root-level environment files
+.env
+
+# Root-level temporary files
+temp/
+tmp/
+*.tmp
+
+# Any root-level logs
+*.log
+
+# OS-specific (in case they appear at root)
+.DS_Store
+Thumbs.db
