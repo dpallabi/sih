@@ -58,15 +58,18 @@ Smart Student System is a comprehensive full-stack web application designed to e
 ## 📸 Screenshots
 
 ### 🔐 Login/Register
-<img width="1920" height="1080" alt="Screenshot 2025-12-10 220405" src="https://github.com/user-attachments/assets/91cb3598-ac03-4b58-9d0e-7917078a191a" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-13 111814" src="https://github.com/user-attachments/assets/4cdc5265-f173-4c62-8c1e-6ab6bbc95075" />
+
 *Seamless authentication with toggle between login and register*
 
 ### 📊 API Documentation
 <img width="1598" height="733" alt="Screenshot 2025-12-10 212918" src="https://github.com/user-attachments/assets/cca82e29-5716-46c2-b8c7-8791b0039dd4" />
+
 *Interactive Swagger UI for testing all endpoints*
 
 ### 💾 Database
 <img width="1920" height="1080" alt="Screenshot 2025-12-10 220405" src="https://github.com/user-attachments/assets/5c77e8a9-d1e0-4004-9c9b-d5ebf1c605fc" />
+
 *Well-structured PostgreSQL database with proper relationships*
 
 ---
