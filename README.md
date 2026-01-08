@@ -1,6 +1,6 @@
 # 🎓 Smart Student System
 
-Smart Student System is a comprehensive full-stack web application designed to enhance learning by providing seamless access to course materials, assignment submissions, and attendance tracking..
+Smart Student System is a comprehensive full-stack web application designed to enhance learning by providing seamless access to course materials, assignment submissions, and attendance tracking.
 ---
 
 ### 🎯 Core Functionality
