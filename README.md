@@ -224,7 +224,6 @@ smart-student-system/
 ├── frontend/
 │   ├── src/
 │   │   ├── pages/
-│   │   │   ├── Landing.tsx
 │   │   │   ├── Login.tsx
 │   │   │   ├── Dashboard.tsx
 │   │   │   ├── Courses.tsx
